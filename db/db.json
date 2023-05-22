@@ -1,15 +1,1 @@
-{
-    "notes": [
-        {
-            "title": "Welcome",
-            "text": "This app allows you to add notes. You can add notes by clicking the pencil icon",
-            "id": "0"
-        }
-
-
-    
-    
-    
-    
-    ]
-}
+[{"title":"text","text":"text"},{"title":"TEst1","text":"Test2","id":"06041b0e-d743-480e-ba75-d88823623e05"}]
