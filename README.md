@@ -11,7 +11,8 @@ I want a place to take notes
 
 In order to better remember things
 
-# Deployed Page
+# Deployed Heroku Page
 
+https://notetakerplus-jp.herokuapp.com/
 
 
